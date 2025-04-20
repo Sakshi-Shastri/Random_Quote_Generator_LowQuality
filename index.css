@@ -1,0 +1,62 @@
+body{
+    background-color: #fff8e8;
+}
+
+h1{
+    text-align: center;
+    margin: 20px 3px;
+    font-size: 5rem;
+    font-style: italic;
+    color:#bc4749;
+}
+.centered-div{
+    text-align: center;
+    margin: 50px 100px 0px 100px;
+    padding:30px 0px 5px 0px;
+    padding-top:0px;
+    /*border: 1px solid #386641;*/
+    border-radius: 20px;
+    background-color: #fff8e8;
+}
+
+.quote{
+    font-size: 2rem;
+    color:#386641;
+}
+.img{
+    height: auto;
+    width: auto;
+}
+
+.refresh{
+    text-align: center;
+    border: 1px solid #9c0609;
+    background-color: #bc4749;
+    padding:10px 5px;
+    border-radius: 10px;
+    font-size: 15px;
+    color:#fefed4;
+}
+
+.refresh:hover{
+    background-color: #b12528;
+}
+
+  .fleur-de-leah-regular {
+    font-family: "Fleur De Leah", cursive;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .charm-regular {
+    font-family: "Charm", cursive;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .charm-bold {
+    font-family: "Charm", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
